@@ -132,7 +132,3 @@ import numpy as np
 # Визуализация
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-# Работа с предупреждениями
-import warnings
-warnings.filterwarnings('ignore')
